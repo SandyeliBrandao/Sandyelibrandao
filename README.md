@@ -23,8 +23,6 @@ Atualmente atuo com **reclamações no Consumidor.gov (iFood)**, e uso essa viv�
 📍 Alagoas | ☕ Curiosa por natureza | ❤️ Aprendizado contínuo
 
 ---
-
-## 🌐 Vamos nos conectar?
 ## 🌐 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandyeli-brandão-814765288)
 [![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:sandyelibrandao@gmail.com)

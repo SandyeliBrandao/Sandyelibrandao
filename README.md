@@ -25,5 +25,7 @@ Atualmente atuo com **reclamações no Consumidor.gov (iFood)**, e uso essa viv�
 ---
 
 ## 🌐 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINK)
-[![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:SEUEMAIL@gmail.com)
+## 🌐 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandyeli-brandão-814765288)
+[![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:sandyelibrandao@gmail.com)
+

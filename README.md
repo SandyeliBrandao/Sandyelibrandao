@@ -1,51 +1,59 @@
-<!-- BANNER -->
-<h1 align="center">👋 Olá, eu sou Sandyeli Brandão!</h1>
-<h3 align="center">Analista de Dados em formação | Foco em BI, SQL, Python e Visualização de Dados</h3>
+# 💡 Data & GenAI Enthusiast | Python • SQL • IA • ETL
+
+👋 Olá! Eu sou **Sandyeli Brandão**, estudante de Análise e Desenvolvimento de Sistemas e apaixonada por **dados, IA generativa e soluções inteligentes** que resolvem problemas reais.
+
+Atualmente estou focada em construir projetos ligados a:
+- **IA Generativa (GenAI)**
+- **Análise de Dados**
+- **Logística e Operações**
+- **Python, SQL, ETL e automações**
+- **Dashboards e Storytelling com Dados**
+
+Tenho experiência prática atendendo reclamações e interações de clientes em múltiplos canais, incluindo:
+
+- **App do iFood (CX e PX)**
+- **Consumidor.gov**
+- **Reclame Aqui**
+
+Essa vivência me deu uma visão profunda sobre:
+- problemas logísticos e falhas de entrega  
+- cancelamentos e reembolsos  
+- má qualidade de produtos e preparação  
+- comportamento e ações de entregadores e restaurantes  
+- pontos críticos da experiência do usuário (PX/CX)
+- indicadores de performance operacional (SLA, atrasos, tentativas de contato, validações de entrega)
+
+Agora transformo essa vivência em **projetos analíticos e aplicações de IA**, conectando tecnologia com impacto real nas operações e na experiência do cliente.
 
 ---
 
-## 💡 Sobre mim
-Sou uma profissional com experiência em atendimento ao cliente e análise de reclamações no iFood (Consumidor.gov).  
-Atualmente estou me especializando em **Análise de Dados**, com foco em **Business Intelligence, SQL, Python, Power BI, Tableau** e **análises logísticas e operacionais**.  
-Meu objetivo é unir minha vivência prática com dados reais e meu olhar analítico para gerar **insights estratégicos** que impactem a operação e a experiência do cliente.
+## 🚀 Tecnologias & Ferramentas
+- **Linguagens:** Python, SQL  
+- **IA & GenAI:** LLMs, Prompt Engineering, análises assistidas por IA  
+- **Data:** Pandas, ETL, Data Cleaning, Estatística básica  
+- **Visualização:** Power BI, Tableau (em aprendizado)  
+- **Outros:** Git, GitHub, VS Code
 
 ---
 
-## 🛠️ Habilidades
-
-**Linguagens e Ferramentas:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 📌 Projetos em construção
+🔧 *Os novos projetos começam a ser publicados em breve:*  
+- **GenAI iFood Case** → Análise + LLM + automações  
+- **SQL Logística** → Consultas reais para operação  
+- **Python ETL** → Pipelines e limpeza de dados  
+- **Dashboard Operacional** → KPIs de entregas e reclamações
 
 ---
 
-## 📊 Projetos em destaque
-
-| Projeto | Descrição | Ferramentas |
-|----------|------------|--------------|
-| [Analise-Pedidos-iFood](https://github.com/SandyeliBrandao/analise-pedidos-ifood) | Estudo de dados logísticos e operacionais, com tratamento e insights em SQL e Tableau. | SQL, Tableau |
-| [Dashboard-Vendas-PowerBI](https://github.com/SandyeliBrandao/dashboard-vendas-powerbi) | Painel interativo com análise de faturamento, lucro e performance de produtos. | Power BI |
-| [Exploracao-Dados-Python](https://github.com/SandyeliBrandao/exploracao-dados-python) | Limpeza e visualização de dados com Pandas e Matplotlib. | Python, Pandas |
+## 🎯 Objetivo atual
+Conquistar uma vaga na área de **Dados / IA / Operações**.
 
 ---
 
-## 🌐 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandyeli-brandão-814765288)
-[![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:sandyelibrandao@gmail.com)
+## 📬 Contato
+✉️ **E-mail:** *sandyelibrandao@gmail.com*  
+🔗 **LinkedIn:** *www.linkedin.com/in/sandyeli-brandão-814765288*  
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-
-![Sandyeli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandyeliBrandao&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandyeliBrandao&layout=compact&theme=tokyonight)
-
-</div>
+⭐ *Obrigada por visitar meu GitHub! Em breve novos projetos estarão disponíveis.*

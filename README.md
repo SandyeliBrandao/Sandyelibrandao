@@ -9,43 +9,24 @@ Atualmente estou focada em construir projetos ligados a:
 - **Python, SQL, ETL e automações**
 - **Dashboards e Storytelling com Dados**
 
-💼 Experiência Relevante
+Tenho experiência prática em logística e atendimento ao cliente em múltiplos canais, incluindo:
 
-📦 Líder Logístico – Shopee
+- **Shopee – Líder Logístico**  
+- **iFood – CX e PX (terceirizada)**  
+- Consumidor.gov  
+- Reclame Aqui  
 
-Atuação direta no fluxo operacional logístico da Shopee, garantindo eficiência, rastreabilidade e qualidade das entregas.
+Essa vivência me deu uma visão profunda sobre:
 
-Responsabilidades principais:
-Monitoramento e controle de performance logística
-Acompanhamento de falhas de entrega, atrasos e inconsistências
-Suporte operacional e comunicação entre áreas
-Análise rápida de problemas e acionamento de responsáveis
-Acompanhamento de SLA, qualidade e indicadores de operação
+- problemas logísticos e falhas de entrega  
+- cancelamentos e reembolsos  
+- inconsistências como “cliente não localizado” e entregas marcadas indevidamente  
+- comportamento e ações de entregadores e restaurantes  
+- má qualidade de produtos e preparo  
+- pontos críticos da experiência do usuário (PX/CX)  
+- indicadores de performance operacional (SLA, atrasos, tentativas de contato, validações de entrega)  
 
-Essa experiência me deu uma visão clara sobre os desafios do e-commerce, operações last-mile, desempenho de parceiros e impacto direto no SLA e satisfação do cliente.
-
-🍔 CX & PX – iFood (terceirizada)
-
-Atuação prática no atendimento e análise de reclamações nas plataformas:
-
-App do iFood (CX e PX)
-Consumidor.gov
-Reclame Aqui
-
-Vivência prática com:
-Cancelamentos, falhas de entrega e avaliações de evidências
-Erros como “cliente não localizado” ou “pedido entregue” indevidamente
-Casos de fraude (códigos de entrega usados indevidamente)
-Má qualidade de produto e preparo
-Reclamações operacionais e comportamento logístico
-Indicadores como tentativas de contato, SLA, atraso e rotas
-Essa experiência me deu uma visão profunda sobre:
-problemas logísticos e falhas no last mile
-cancelamentos e validações de reembolso
-comportamento de entregadores e restaurantes
-pontos críticos da experiência do usuário (PX/CX)
-como dados, automações e IA podem melhorar todo o processo
-Agora transformo essa vivência em **projetos analíticos e aplicações de IA**, conectando tecnologia com impacto real nas operações e na experiência do cliente.
+Agora transformo essa vivência em projetos analíticos e aplicações de IA, conectando tecnologia com impacto real nas operações e na experiência do cliente.
 
 ---
 
